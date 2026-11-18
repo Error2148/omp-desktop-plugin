@@ -1,0 +1,19 @@
+{
+  "theme": "System",
+  "copy_on_select": true,
+  "link_target": "Browser",
+  "tabs": "Vertical",
+  "new_blocks": "Agent",
+  "msaa": "8x",
+  "agents": {
+    "notify_turn_finished": true
+  },
+  "keybinds": {
+    "ctrl+c": [
+      "plugin.omp-desk.smart_copy",
+      "canvas.copy",
+      "sqlite.structure.copy_create"
+    ]
+  },
+  "new_tabs": "Focused"
+}

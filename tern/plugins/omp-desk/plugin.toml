@@ -1,0 +1,7 @@
+schema = 1
+id = "omp-desk"
+name = "omp Desk"
+version = "0.1.0"
+description = "Codex / Claude desktop style projects and threads for omp: per-project home pages, history, new threads in the project folder."
+icon = "app-omp"
+window = "window.luau"
