@@ -1,5 +1,7 @@
 # 每行：键 值。modelRoles.<角色> 会合并进已有的 modelRoles，不覆盖其他角色
 modelRoles.default anthropic/claude-opus-5-5:xhigh
+modelRoles.smol anthropic/claude-haiku-5-5
+defaultThinkingLevel xhigh
 title.icons nf+emoji
 extensionRenderers.transcriptPresenters true
 hideThinkingBlock false
